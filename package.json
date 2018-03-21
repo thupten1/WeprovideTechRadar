@@ -1,20 +1,20 @@
 {
   "name": "techradar",
   "version": "0.1.2",
-  "description": "Colours Tech Radar.",
+  "description": "We Provide Tech Radar.",
   "main": "index.js",
   "license": "AGPL-3.0",
   "scripts": {
     "build": "rm -rf ./dist && webpack",
     "dev": "cross-env NODE_ENV=development webpack-dev-server --dev --inline"
   },
-  "author": "Stan",
+  "author": "Thupten & Stefan",
   "repository": {
     "type": "git",
     "url": ""
   },
   "keywords": [
-    "tech-radar-colours"
+    "tech-radar-we-provide"
   ],
   "devDependencies": {
     "copy-webpack-plugin": "4.0.1",
