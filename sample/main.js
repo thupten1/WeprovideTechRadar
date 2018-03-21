@@ -27,7 +27,7 @@ fetch(dataFile)
       // Examine the text in the response  
       response.json().then(function(data) {  
         console.log(data);
-        const radarData = data 
+        const radarData = data;
         createRadar(radarData);
       });  
     }  

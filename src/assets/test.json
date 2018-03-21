@@ -1,6 +1,5 @@
 // API callback
-JSON(
-{
+JSON({
   "version": "1.0",
   "encoding": "UTF-8",
   "feed": {
@@ -11,7 +10,7 @@ JSON(
       "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values"
     },
     "updated": {
-      "$t": "2018-03-08T11:33:06.622Z"
+      "$t": "2018-03-21T14:59:34.952Z"
     },
     "category": [
       {
@@ -67,7 +66,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cokwr"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -81,7 +80,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: adopt,quadrant: Platforms, isnew: TRUE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: adopt, quadrant: Platforms, isnew: TRUE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
         },
         "link": [
           {
@@ -106,13 +105,12 @@ JSON(
           "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
         }
       },
-
       {
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cpzh4"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -126,7 +124,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: adopt, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: adopt, quadrant: Platforms, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -148,16 +146,15 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
-
       {
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cre1l"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -171,7 +168,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: trial, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: trial, quadrant: Platforms, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -193,7 +190,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -201,7 +198,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/chk2m"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -215,7 +212,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: trial, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: trial, quadrant: Platforms, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -237,7 +234,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -245,7 +242,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ciyn3"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -259,7 +256,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: assess, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: assess, quadrant: Platforms, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -281,7 +278,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -289,7 +286,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ckd7g"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -303,7 +300,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: assess, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: assess, quadrant: Platforms, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -325,7 +322,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -333,7 +330,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/clrrx"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -347,7 +344,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: assess, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: assess, quadrant: Platforms, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -369,7 +366,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -377,7 +374,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cyevm"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -391,7 +388,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: assess, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: assess, quadrant: Platforms, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -413,7 +410,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -421,7 +418,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cztg3"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -435,7 +432,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: assess, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: assess, quadrant: Platforms, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -457,7 +454,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -465,7 +462,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d180g"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -479,7 +476,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: hold, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: hold, quadrant: Platforms, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -501,7 +498,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -509,7 +506,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d2mkx"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -523,7 +520,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: hold, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: hold, quadrant: Platforms, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -545,7 +542,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -553,7 +550,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cssly"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -567,7 +564,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: adopt, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: adopt, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -589,7 +586,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -597,7 +594,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cu76f"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -611,7 +608,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: adopt, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: adopt, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -633,7 +630,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -641,7 +638,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cvlqs"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -655,7 +652,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: adopt, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: adopt, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -677,7 +674,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -685,7 +682,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cx0b9"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -699,7 +696,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: adopt, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: adopt, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -721,7 +718,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -729,7 +726,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d9ney"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -743,7 +740,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: trial, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: trial, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -765,7 +762,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -773,7 +770,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/db1zf"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -787,7 +784,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: assess, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: assess, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -809,7 +806,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -817,7 +814,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dcgjs"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -831,7 +828,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: assess, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: assess, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -853,7 +850,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -861,7 +858,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ddv49"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -875,7 +872,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: assess, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: assess, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -897,7 +894,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -905,7 +902,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d415a"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -919,7 +916,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: assess, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: assess, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -941,7 +938,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -949,7 +946,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d5fpr"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -963,7 +960,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: assess, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: assess, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -985,7 +982,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -993,7 +990,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d6ua4"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1007,7 +1004,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: hold, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: hold, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1029,7 +1026,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1037,7 +1034,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d88ul"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1051,7 +1048,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: hold, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: hold, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1073,7 +1070,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1081,7 +1078,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dkvya"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1095,7 +1092,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: hold, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: hold, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1117,7 +1114,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1125,7 +1122,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dmair"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1139,7 +1136,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: hold, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: hold, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1161,7 +1158,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1169,7 +1166,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dnp34"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1183,7 +1180,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: adopt, quadrant: Techniek, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: adopt, quadrant: Techniek, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1205,7 +1202,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1213,7 +1210,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dp3nl"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1227,7 +1224,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: adopt, quadrant: Techniek, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: adopt, quadrant: Techniek, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1249,7 +1246,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1257,7 +1254,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/df9om"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1271,7 +1268,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: assess, quadrant: Techniek, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: assess, quadrant: Techniek, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1293,7 +1290,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1301,7 +1298,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dgo93"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1315,7 +1312,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: assess, quadrant: Techniek, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: assess, quadrant: Techniek, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1337,7 +1334,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1345,7 +1342,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/di2tg"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1359,7 +1356,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: assess, quadrant: Techniek, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: assess, quadrant: Techniek, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1381,7 +1378,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1389,7 +1386,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/djhdx"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1403,7 +1400,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: hold, quadrant: Techniek, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: hold, quadrant: Techniek, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1425,7 +1422,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1433,7 +1430,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dw4je"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1447,7 +1444,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: hold, quadrant: Techniek, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: hold, quadrant: Techniek, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1469,7 +1466,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1477,7 +1474,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dxj3v"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1491,7 +1488,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1513,7 +1510,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1521,7 +1518,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dyxo8"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1535,7 +1532,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1557,7 +1554,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1565,7 +1562,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e0c8p"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1579,7 +1576,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1601,7 +1598,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1609,7 +1606,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dqi9q"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1623,7 +1620,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1645,7 +1642,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1653,7 +1650,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/drwu7"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1667,7 +1664,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1689,7 +1686,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1697,7 +1694,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dtbek"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1711,7 +1708,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1733,7 +1730,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1741,7 +1738,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dupz1"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1755,7 +1752,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1777,7 +1774,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1785,7 +1782,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e7d2q"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1799,7 +1796,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1821,7 +1818,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1829,7 +1826,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e8rn7"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1843,7 +1840,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1865,7 +1862,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1873,7 +1870,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ea67k"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1887,7 +1884,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1909,7 +1906,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1917,7 +1914,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ebks1"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1931,7 +1928,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: trial, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: trial, quadrant: Tools, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1953,7 +1950,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -1961,7 +1958,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e1qt2"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -1975,7 +1972,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: trial, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: trial, quadrant: Tools, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -1997,7 +1994,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -2005,7 +2002,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e35dj"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -2019,7 +2016,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: assess, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: assess, quadrant: Tools, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -2041,7 +2038,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -2049,7 +2046,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e4jxw"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -2063,7 +2060,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: assess, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: assess, quadrant: Tools, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -2085,7 +2082,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       },
       {
@@ -2093,7 +2090,7 @@ JSON(
           "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e5yid"
         },
         "updated": {
-          "$t": "2018-03-08T11:33:06.622Z"
+          "$t": "2018-03-21T14:59:34.952Z"
         },
         "category": [
           {
@@ -2107,7 +2104,7 @@ JSON(
         },
         "content": {
           "type": "text",
-          "$t": "ring: hold, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "ring: hold, quadrant: Tools, isnew: FALSE, description: Uitleg"
         },
         "link": [
           {
@@ -2129,7 +2126,7 @@ JSON(
           "$t": "FALSE"
         },
         "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+          "$t": "Uitleg"
         }
       }
     ]
