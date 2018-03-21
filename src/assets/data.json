@@ -1,0 +1,378 @@
+[
+
+ 
+  {
+    "name": "Continuous Integration",
+    "ring": "adopt",  
+    "quadrant": "Methods",
+    "isNew": false,
+    "description": "Hier is de jfkda;jfdklaj;fdjaf "
+  },
+  {
+    "name": "Progressive enhancement",
+    "ring": "adopt",  
+    "quadrant": "Methods",
+    "isNew": true,
+    "description": "Hallo Koen"
+  },
+  {
+    "name": "Responsive",
+    "ring": "adopt",  
+    "quadrant": "Methods",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "Mobile first",
+    "ring": "adopt",  
+    "quadrant": "Methods",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "Style Sheet Driven design",
+    "ring": "adopt",  
+    "quadrant": "Methods",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "Scrum / Agile",
+    "ring": "adopt",  
+    "quadrant": "Methods",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "Atomic Design",
+    "ring": "adopt",  
+    "quadrant": "Methods",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "Continuous Delivery",
+    "ring": "adopt",  
+    "quadrant": "Methods",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "Scaffolding",
+    "ring": "adopt",  
+    "quadrant": "Methods",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "Responsive Images",
+    "ring": "adopt",  
+    "quadrant": "Methods",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "Test Driven Development", 
+    "ring": "adopt",  
+    "quadrant": "Methods",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "Inversion of Control / Dependency Injection",
+    "ring": "adopt",  
+    "quadrant": "Methods",
+    "isNew": false,
+    "description": ""
+  },
+
+  {
+    "name": "x",
+    "ring": "trial",  
+    "quadrant": "Methods",
+    "isNew": false,
+    "description": ""
+  },
+
+   {
+    "name": "y",
+    "ring": "assess",  
+    "quadrant": "Methods",
+    "isNew": false,
+    "description": ""
+  },
+
+   {
+    "name": "z",
+    "ring": "hold",  
+    "quadrant": "Methods",
+    "isNew": false,
+    "description": ""
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  {
+    "name": "GIT",
+    "ring": "adopt",  
+    "quadrant": "Tools",
+    "isNew": false,
+    "description": ""
+  },
+   {
+    "name": "GitHub",
+    "ring": "adopt",  
+    "quadrant": "Tools",
+    "isNew": false,
+    "description": ""
+  },
+   {
+    "name": "TargetProcess",
+    "ring": "adopt",  
+    "quadrant": "Tools",
+    "isNew": false,
+    "description": ""
+  },
+   {
+    "name": "NuGet",
+    "ring": "adopt",  
+    "quadrant": "Tools",
+    "isNew": false,
+    "description": ""
+  },
+   {
+    "name": "Resharper",
+    "ring": "adopt",  
+    "quadrant": "Tools",
+    "isNew": false,
+    "description": ""
+  },
+   {
+    "name": "Selenium",
+    "ring": "adopt",  
+    "quadrant": "Tools",
+    "isNew": false,
+    "description": ""
+  },
+   {
+    "name": "TeamCity",
+    "ring": "adopt",  
+    "quadrant": "Tools",
+    "isNew": false,
+    "description": ""
+  },
+   {
+    "name": "PatternLab",
+    "ring": "adopt",  
+    "quadrant": "Tools",
+    "isNew": false,
+    "description": ""
+  },
+   {
+    "name": "SonarQube",
+    "ring": "adopt",  
+    "quadrant": "Tools",
+    "isNew": false,
+    "description": ""
+  },
+   {
+    "name": "Gulp",
+    "ring": "adopt",  
+    "quadrant": "Tools",
+    "isNew": false,
+    "description": ""
+  },
+
+   {
+    "name": "Webpack",
+    "ring": "trial",  
+    "quadrant": "Tools",
+    "isNew": true,
+    "description": ""
+  },
+
+   {
+    "name": "Yarn",
+    "ring": "assess",  
+    "quadrant": "Tools",
+    "isNew": false,
+    "description": ""
+  },
+
+  {
+    "name": "Amazon Web Services",
+    "ring": "hold",  
+    "quadrant": "Tools",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "Grunt",
+    "ring": "hold",  
+    "quadrant": "Tools",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "Bower",
+    "ring": "hold",  
+    "quadrant": "Tools",
+    "isNew": false,
+    "description": ""
+  },
+
+
+
+
+
+
+
+   {
+    "name": "React",
+    "ring": "adopt",  
+    "quadrant": "Languages and frameworks",
+    "isNew": false,
+    "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. <br><br> React Docs: <a href=\"https://facebook.github.io/react/docs/installation.html\">Click here</a> "
+  },
+  {
+    "name": "C#",
+    "ring": "adopt",  
+    "quadrant": "Languages and frameworks",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "HTML",
+    "ring": "adopt",  
+    "quadrant": "Languages and frameworks",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "CSS",
+    "ring": "adopt",  
+    "quadrant": "Languages and frameworks",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "Javascript ES6",
+    "ring": "adopt",  
+    "quadrant": "Languages and frameworks",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "MVC",
+    "ring": "adopt",  
+    "quadrant": "Languages and frameworks",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "SASS",
+    "ring": "adopt",  
+    "quadrant": "Languages and frameworks",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "NODE.js",
+    "ring": "adopt",  
+    "quadrant": "Languages and frameworks",
+    "isNew": false,
+    "description": ""
+  },
+
+   {
+    "name": "Underscore.js",
+    "ring": "trial",  
+    "quadrant": "Languages and frameworks",
+    "isNew": false,
+    "description": ""
+  },
+
+  {
+    "name": "Postcss",
+    "ring": "assess",  
+    "quadrant": "Languages and frameworks",
+    "isNew": false,
+    "description": ""
+  },
+
+  {
+    "name": "AngularJS",
+    "ring": "hold",  
+    "quadrant": "Languages and frameworks",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "jQuery",
+    "ring": "hold",  
+    "quadrant": "Languages and frameworks",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "MS WebForms",
+    "ring": "hold",  
+    "quadrant": "Languages and frameworks",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "Flash",
+    "ring": "hold",  
+    "quadrant": "Languages and frameworks",
+    "isNew": false,
+    "description": ""
+  },
+
+  
+
+  {
+    "name": "Drupal",
+    "ring": "adopt",  
+    "quadrant": "Platforms",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "Sitecore",
+    "ring": "adopt",  
+    "quadrant": "Platforms",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "Google Analytics",
+    "ring": "adopt",  
+    "quadrant": "Platforms",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "Umbraco",
+    "ring": "adopt",  
+    "quadrant": "Platforms",
+    "isNew": false,
+    "description": ""
+  },
+
+  {
+    "name": "EPiServer",
+    "ring": "hold",  
+    "quadrant": "Platforms",
+    "isNew": false,
+    "description": ""
+  }
+
+
+   
+]

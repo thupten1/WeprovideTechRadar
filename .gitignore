@@ -1,0 +1,14 @@
+node_modules
+node_cache
+bower_components
+dist
+examples
+*.swa
+*.swp
+*.swo
+*.log
+
+coverage/
+
+.idea/
+.DS_Store

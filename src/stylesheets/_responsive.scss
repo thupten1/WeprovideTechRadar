@@ -1,0 +1,63 @@
+// Responsive display
+@media screen and (max-device-width: 480px) {
+
+    // changes radar and tables
+
+   svg#radar-plot {
+      display: none !important;
+    }
+
+    #radar div.quadrant-table h3 {
+        font-size: 30px;
+    }
+
+    #radar div.quadrant-table ul li .blip-item-description{
+        width: 100%;
+    }
+
+    #radar div.quadrant-table ul li .blip-item-description p {
+        font-size: 25px;
+    }
+
+    #radar div.quadrant-table.first.selected{
+      float: left;    
+    }
+
+     #radar div.quadrant-table.fourth.selected{
+      float: left;      
+    }
+
+    #radar div.quadrant-table.selected{
+      max-width: 100%;
+      width: 100%;
+    }
+
+    #radar div.quadrant-table ul li {
+    display: block;
+    font-size: 14px;
+    border-top: 1px solid #ebebeb;
+    padding: 0;
+    }
+
+    #radar div.quadrant-table ul li .blip-list-item {
+    display: block;
+    padding: 1em .4em 1em 20px;
+    line-height: 1.15em;
+    text-decoration: none;
+    color: #000;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 25px;
+  }
+
+  // changes navigation
+
+  header .button{
+      width: 40%;
+      margin: 10px 10px;
+      padding: 25px 10px;
+      font-size: 30px;
+      display: inline-block;
+  }
+
+}

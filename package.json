@@ -1,0 +1,48 @@
+{
+  "name": "techradar",
+  "version": "0.1.2",
+  "description": "Colours Tech Radar.",
+  "main": "index.js",
+  "license": "AGPL-3.0",
+  "scripts": {
+    "build": "rm -rf ./dist && webpack",
+    "dev": "cross-env NODE_ENV=development webpack-dev-server --dev --inline"
+  },
+  "author": "Stan",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "tech-radar-colours"
+  ],
+  "devDependencies": {
+    "copy-webpack-plugin": "4.0.1",
+    "cross-env": "4.0.0",
+    "css-loader": "0.26.1",
+    "extract-text-webpack-plugin": "2.1.0",
+    "file-loader": "0.10.0",
+    "flow-bin": "0.36.0",
+    "html-loader": "0.4.4",
+    "html-webpack-plugin": "2.28.0",
+    "istanbul": "0.4.5",
+    "jasmine": "2.5.2",
+    "json-loader": "0.5.4",
+    "node-sass": "3.10.0",
+    "sass-loader": "4.0.2",
+    "shrinkpack": "0.17.1",
+    "style-loader": "0.13.1",
+    "webpack": "2.2.1",
+    "webpack-dev-server": "1.16.3"
+  },
+  "dependencies": {
+    "chance": "1.0.4",
+    "d3": "4.4.0",
+    "d3-tip": "0.7.1",
+    "lodash": "4.16.2",
+    "node-nightly": "1.7.0",
+    "ramda": "0.22.1",
+    "raw-loader": "0.5.1",
+    "sanitize-html": "1.13.0"
+  }
+}

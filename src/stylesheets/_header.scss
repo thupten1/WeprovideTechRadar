@@ -1,0 +1,118 @@
+header {
+  width: 100%;
+  line-height: 60px;
+  text-align: center;
+  margin-bottom: 15px;
+
+  .radar-title {
+    background-color: $grey-light;
+    padding-top: 30px;
+    //padding-bottom: 30px;
+    display: table;
+    margin: auto;
+    width: 100%;
+
+    .radar-title__container {
+
+      margin: auto;
+      width: 90%;
+      display: block;
+      text-align:center;
+      height:90px;
+
+      .radar-title__text {        
+        h1 {
+          font-size: 55px;                              
+          margin: 0;
+          padding: 0;                               
+        }
+      }
+
+      .radar-title__logo {        
+        a {
+          border-bottom: none;
+        }
+        img {
+          height: 50px;
+        }
+      }
+    }
+  }
+
+  .home-link {
+    color: $blue;
+    cursor: pointer;
+    display: inline-block;
+    font-size: $baseFont;
+    width: 80%;
+  }
+
+  .button {
+    font-size: $baseFont;
+    text-transform: capitalize;
+    display: inline-block;
+    margin-right: 20px;
+    border-radius: 5px;
+    line-height: 1em;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: all .2s ease-out;
+
+    background-color: $grey-light;
+    color: $black;
+
+    &.no-capitalize {
+      text-transform: none;
+    }
+
+    &:hover, &.selected {
+
+      transform: translate(0, -2px);
+      opacity: .85;
+
+      &.first {
+        color: white;
+        background-color: $green;
+        border-bottom: 3px solid $dark-green;
+      }
+      &.second {
+        color: white;
+        background-color: $light-blue;
+        border-bottom: 3px solid $dark-blue;
+      }
+      &.third {
+        color: white;
+        background-color: $orange;
+        border-bottom: 3px solid $dark-orange;
+      }
+      &.fourth {
+        color: white;
+        background-color: $violet;
+        border-bottom: 3px solid $dark-violet;
+      }
+    }
+
+    &.full-view {
+      &.first {
+        background-color: $green;
+        color: $white;
+        border-bottom: 3px solid $dark-green;
+      }
+      &.second {
+        background-color: $light-blue;
+        color: $white;
+         border-bottom: 3px solid $dark-blue;
+      }
+      &.third {
+        background-color: $orange;
+        color: $white;
+         border-bottom: 3px solid $dark-orange;
+      }
+      &.fourth {
+        background-color: $violet;
+        color: $white;
+         border-bottom: 3px solid $dark-violet;
+      }
+    }
+  }
+}
