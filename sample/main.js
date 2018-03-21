@@ -1,6 +1,6 @@
 
 require('../images/radar_legend.png');
-require('../images/colourssmall.jpg');
+require('../images/wpsmall.png');
 require('../src/stylesheets/base.scss');
 
 
