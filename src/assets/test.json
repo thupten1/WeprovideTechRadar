@@ -1,0 +1,2137 @@
+// API callback
+JSON(
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+    "id": {
+      "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values"
+    },
+    "updated": {
+      "$t": "2018-03-08T11:33:06.622Z"
+    },
+    "category": [
+      {
+        "scheme": "http://schemas.google.com/spreadsheets/2006",
+        "term": "http://schemas.google.com/spreadsheets/2006#list"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Blad1"
+    },
+    "link": [
+      {
+        "rel": "alternate",
+        "type": "application/atom+xml",
+        "href": "https://docs.google.com/spreadsheets/d/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/pubhtml"
+      },
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values"
+      },
+      {
+        "rel": "http://schemas.google.com/g/2005#post",
+        "type": "application/atom+xml",
+        "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values?alt\u003djson-in-script"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "s.buijs97"
+        },
+        "email": {
+          "$t": "s.buijs97@gmail.com"
+        }
+      }
+    ],
+    "openSearch$totalResults": {
+      "$t": "47"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cokwr"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Magento"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: adopt,quadrant: Platforms, isnew: TRUE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cokwr"
+          }
+        ],
+        "gsx$name": {
+          "$t": "Magento"
+        },
+        "gsx$ring": {
+          "$t": "adopt"
+        },
+        "gsx$quadrant": {
+          "$t": "Platforms"
+        },
+        "gsx$isnew": {
+          "$t": "TRUE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cpzh4"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "WordPress"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: adopt, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cpzh4"
+          }
+        ],
+        "gsx$name": {
+          "$t": "WordPress"
+        },
+        "gsx$ring": {
+          "$t": "adopt"
+        },
+        "gsx$quadrant": {
+          "$t": "Platforms"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cre1l"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Ionic"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: trial, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cre1l"
+          }
+        ],
+        "gsx$name": {
+          "$t": "Ionic"
+        },
+        "gsx$ring": {
+          "$t": "trial"
+        },
+        "gsx$quadrant": {
+          "$t": "Platforms"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/chk2m"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Drupal"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: trial, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/chk2m"
+          }
+        ],
+        "gsx$name": {
+          "$t": "Drupal"
+        },
+        "gsx$ring": {
+          "$t": "trial"
+        },
+        "gsx$quadrant": {
+          "$t": "Platforms"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ciyn3"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Craft.CMS"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: assess, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ciyn3"
+          }
+        ],
+        "gsx$name": {
+          "$t": "Craft.CMS"
+        },
+        "gsx$ring": {
+          "$t": "assess"
+        },
+        "gsx$quadrant": {
+          "$t": "Platforms"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ckd7g"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Craft Commerce"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: assess, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ckd7g"
+          }
+        ],
+        "gsx$name": {
+          "$t": "Craft Commerce"
+        },
+        "gsx$ring": {
+          "$t": "assess"
+        },
+        "gsx$quadrant": {
+          "$t": "Platforms"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/clrrx"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "???"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: assess, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/clrrx"
+          }
+        ],
+        "gsx$name": {
+          "$t": "???"
+        },
+        "gsx$ring": {
+          "$t": "assess"
+        },
+        "gsx$quadrant": {
+          "$t": "Platforms"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cyevm"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "???"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: assess, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cyevm"
+          }
+        ],
+        "gsx$name": {
+          "$t": "???"
+        },
+        "gsx$ring": {
+          "$t": "assess"
+        },
+        "gsx$quadrant": {
+          "$t": "Platforms"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cztg3"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "???"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: assess, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cztg3"
+          }
+        ],
+        "gsx$name": {
+          "$t": "???"
+        },
+        "gsx$ring": {
+          "$t": "assess"
+        },
+        "gsx$quadrant": {
+          "$t": "Platforms"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d180g"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "WooCommerce"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: hold, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d180g"
+          }
+        ],
+        "gsx$name": {
+          "$t": "WooCommerce"
+        },
+        "gsx$ring": {
+          "$t": "hold"
+        },
+        "gsx$quadrant": {
+          "$t": "Platforms"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d2mkx"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "???"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: hold, quadrant: Platforms, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d2mkx"
+          }
+        ],
+        "gsx$name": {
+          "$t": "???"
+        },
+        "gsx$ring": {
+          "$t": "hold"
+        },
+        "gsx$quadrant": {
+          "$t": "Platforms"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cssly"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Symfony"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: adopt, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cssly"
+          }
+        ],
+        "gsx$name": {
+          "$t": "Symfony"
+        },
+        "gsx$ring": {
+          "$t": "adopt"
+        },
+        "gsx$quadrant": {
+          "$t": "Talen \u0026 Frameworks"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cu76f"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Sonata"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: adopt, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cu76f"
+          }
+        ],
+        "gsx$name": {
+          "$t": "Sonata"
+        },
+        "gsx$ring": {
+          "$t": "adopt"
+        },
+        "gsx$quadrant": {
+          "$t": "Talen \u0026 Frameworks"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cvlqs"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "PHP"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: adopt, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cvlqs"
+          }
+        ],
+        "gsx$name": {
+          "$t": "PHP"
+        },
+        "gsx$ring": {
+          "$t": "adopt"
+        },
+        "gsx$quadrant": {
+          "$t": "Talen \u0026 Frameworks"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cx0b9"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "JavaScript"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: adopt, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cx0b9"
+          }
+        ],
+        "gsx$name": {
+          "$t": "JavaScript"
+        },
+        "gsx$ring": {
+          "$t": "adopt"
+        },
+        "gsx$quadrant": {
+          "$t": "Talen \u0026 Frameworks"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d9ney"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "REACT"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: trial, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d9ney"
+          }
+        ],
+        "gsx$name": {
+          "$t": "REACT"
+        },
+        "gsx$ring": {
+          "$t": "trial"
+        },
+        "gsx$quadrant": {
+          "$t": "Talen \u0026 Frameworks"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/db1zf"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "???"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: assess, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/db1zf"
+          }
+        ],
+        "gsx$name": {
+          "$t": "???"
+        },
+        "gsx$ring": {
+          "$t": "assess"
+        },
+        "gsx$quadrant": {
+          "$t": "Talen \u0026 Frameworks"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dcgjs"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "JAVA"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: assess, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dcgjs"
+          }
+        ],
+        "gsx$name": {
+          "$t": "JAVA"
+        },
+        "gsx$ring": {
+          "$t": "assess"
+        },
+        "gsx$quadrant": {
+          "$t": "Talen \u0026 Frameworks"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ddv49"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "???"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: assess, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ddv49"
+          }
+        ],
+        "gsx$name": {
+          "$t": "???"
+        },
+        "gsx$ring": {
+          "$t": "assess"
+        },
+        "gsx$quadrant": {
+          "$t": "Talen \u0026 Frameworks"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d415a"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "VUE"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: assess, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d415a"
+          }
+        ],
+        "gsx$name": {
+          "$t": "VUE"
+        },
+        "gsx$ring": {
+          "$t": "assess"
+        },
+        "gsx$quadrant": {
+          "$t": "Talen \u0026 Frameworks"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d5fpr"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Blockchain"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: assess, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d5fpr"
+          }
+        ],
+        "gsx$name": {
+          "$t": "Blockchain"
+        },
+        "gsx$ring": {
+          "$t": "assess"
+        },
+        "gsx$quadrant": {
+          "$t": "Talen \u0026 Frameworks"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d6ua4"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "ZEND"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: hold, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d6ua4"
+          }
+        ],
+        "gsx$name": {
+          "$t": "ZEND"
+        },
+        "gsx$ring": {
+          "$t": "hold"
+        },
+        "gsx$quadrant": {
+          "$t": "Talen \u0026 Frameworks"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d88ul"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "???"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: hold, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d88ul"
+          }
+        ],
+        "gsx$name": {
+          "$t": "???"
+        },
+        "gsx$ring": {
+          "$t": "hold"
+        },
+        "gsx$quadrant": {
+          "$t": "Talen \u0026 Frameworks"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dkvya"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Angular"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: hold, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dkvya"
+          }
+        ],
+        "gsx$name": {
+          "$t": "Angular"
+        },
+        "gsx$ring": {
+          "$t": "hold"
+        },
+        "gsx$quadrant": {
+          "$t": "Talen \u0026 Frameworks"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dmair"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Ruby"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: hold, quadrant: Talen \u0026 Frameworks, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dmair"
+          }
+        ],
+        "gsx$name": {
+          "$t": "Ruby"
+        },
+        "gsx$ring": {
+          "$t": "hold"
+        },
+        "gsx$quadrant": {
+          "$t": "Talen \u0026 Frameworks"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dnp34"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "SASS"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: adopt, quadrant: Techniek, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dnp34"
+          }
+        ],
+        "gsx$name": {
+          "$t": "SASS"
+        },
+        "gsx$ring": {
+          "$t": "adopt"
+        },
+        "gsx$quadrant": {
+          "$t": "Techniek"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dp3nl"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Webpack / ???"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: adopt, quadrant: Techniek, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dp3nl"
+          }
+        ],
+        "gsx$name": {
+          "$t": "Webpack / ???"
+        },
+        "gsx$ring": {
+          "$t": "adopt"
+        },
+        "gsx$quadrant": {
+          "$t": "Techniek"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/df9om"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Parcel JS"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: assess, quadrant: Techniek, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/df9om"
+          }
+        ],
+        "gsx$name": {
+          "$t": "Parcel JS"
+        },
+        "gsx$ring": {
+          "$t": "assess"
+        },
+        "gsx$quadrant": {
+          "$t": "Techniek"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dgo93"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "???"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: assess, quadrant: Techniek, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dgo93"
+          }
+        ],
+        "gsx$name": {
+          "$t": "???"
+        },
+        "gsx$ring": {
+          "$t": "assess"
+        },
+        "gsx$quadrant": {
+          "$t": "Techniek"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/di2tg"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "ESB"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: assess, quadrant: Techniek, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/di2tg"
+          }
+        ],
+        "gsx$name": {
+          "$t": "ESB"
+        },
+        "gsx$ring": {
+          "$t": "assess"
+        },
+        "gsx$quadrant": {
+          "$t": "Techniek"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/djhdx"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Guelph"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: hold, quadrant: Techniek, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/djhdx"
+          }
+        ],
+        "gsx$name": {
+          "$t": "Guelph"
+        },
+        "gsx$ring": {
+          "$t": "hold"
+        },
+        "gsx$quadrant": {
+          "$t": "Techniek"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dw4je"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "LESS"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: hold, quadrant: Techniek, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dw4je"
+          }
+        ],
+        "gsx$name": {
+          "$t": "LESS"
+        },
+        "gsx$ring": {
+          "$t": "hold"
+        },
+        "gsx$quadrant": {
+          "$t": "Techniek"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dxj3v"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "GIT"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dxj3v"
+          }
+        ],
+        "gsx$name": {
+          "$t": "GIT"
+        },
+        "gsx$ring": {
+          "$t": "adopt"
+        },
+        "gsx$quadrant": {
+          "$t": "Tools"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dyxo8"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "???"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dyxo8"
+          }
+        ],
+        "gsx$name": {
+          "$t": "???"
+        },
+        "gsx$ring": {
+          "$t": "adopt"
+        },
+        "gsx$quadrant": {
+          "$t": "Tools"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e0c8p"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "PhpStorm"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e0c8p"
+          }
+        ],
+        "gsx$name": {
+          "$t": "PhpStorm"
+        },
+        "gsx$ring": {
+          "$t": "adopt"
+        },
+        "gsx$quadrant": {
+          "$t": "Tools"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dqi9q"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Jira"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dqi9q"
+          }
+        ],
+        "gsx$name": {
+          "$t": "Jira"
+        },
+        "gsx$ring": {
+          "$t": "adopt"
+        },
+        "gsx$quadrant": {
+          "$t": "Tools"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/drwu7"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "???"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/drwu7"
+          }
+        ],
+        "gsx$name": {
+          "$t": "???"
+        },
+        "gsx$ring": {
+          "$t": "adopt"
+        },
+        "gsx$quadrant": {
+          "$t": "Tools"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dtbek"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Slack"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dtbek"
+          }
+        ],
+        "gsx$name": {
+          "$t": "Slack"
+        },
+        "gsx$ring": {
+          "$t": "adopt"
+        },
+        "gsx$quadrant": {
+          "$t": "Tools"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dupz1"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "New Relic"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dupz1"
+          }
+        ],
+        "gsx$name": {
+          "$t": "New Relic"
+        },
+        "gsx$ring": {
+          "$t": "adopt"
+        },
+        "gsx$quadrant": {
+          "$t": "Tools"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e7d2q"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "???"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e7d2q"
+          }
+        ],
+        "gsx$name": {
+          "$t": "???"
+        },
+        "gsx$ring": {
+          "$t": "adopt"
+        },
+        "gsx$quadrant": {
+          "$t": "Tools"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e8rn7"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "???"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e8rn7"
+          }
+        ],
+        "gsx$name": {
+          "$t": "???"
+        },
+        "gsx$ring": {
+          "$t": "adopt"
+        },
+        "gsx$quadrant": {
+          "$t": "Tools"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ea67k"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Valet+"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: adopt, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ea67k"
+          }
+        ],
+        "gsx$name": {
+          "$t": "Valet+"
+        },
+        "gsx$ring": {
+          "$t": "adopt"
+        },
+        "gsx$quadrant": {
+          "$t": "Tools"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ebks1"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Discord"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: trial, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ebks1"
+          }
+        ],
+        "gsx$name": {
+          "$t": "Discord"
+        },
+        "gsx$ring": {
+          "$t": "trial"
+        },
+        "gsx$quadrant": {
+          "$t": "Tools"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e1qt2"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "???"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: trial, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e1qt2"
+          }
+        ],
+        "gsx$name": {
+          "$t": "???"
+        },
+        "gsx$ring": {
+          "$t": "trial"
+        },
+        "gsx$quadrant": {
+          "$t": "Tools"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e35dj"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "???"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: assess, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e35dj"
+          }
+        ],
+        "gsx$name": {
+          "$t": "???"
+        },
+        "gsx$ring": {
+          "$t": "assess"
+        },
+        "gsx$quadrant": {
+          "$t": "Tools"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e4jxw"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "GitLab"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: assess, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e4jxw"
+          }
+        ],
+        "gsx$name": {
+          "$t": "GitLab"
+        },
+        "gsx$ring": {
+          "$t": "assess"
+        },
+        "gsx$quadrant": {
+          "$t": "Tools"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e5yid"
+        },
+        "updated": {
+          "$t": "2018-03-08T11:33:06.622Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "???"
+        },
+        "content": {
+          "type": "text",
+          "$t": "ring: hold, quadrant: Tools, isnew: FALSE, description: This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e5yid"
+          }
+        ],
+        "gsx$name": {
+          "$t": "???"
+        },
+        "gsx$ring": {
+          "$t": "hold"
+        },
+        "gsx$quadrant": {
+          "$t": "Tools"
+        },
+        "gsx$isnew": {
+          "$t": "FALSE"
+        },
+        "gsx$description": {
+          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
+        }
+      }
+    ]
+  }
+});
