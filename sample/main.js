@@ -12,10 +12,10 @@ const createRadar = require('../index');
 //replace with require('techradar') when using the npm package 'techradar' in your project
 
 var dataFile = './assets/data.json';
-var googleSheet = 'https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values?alt=json-in-script&callback=JSON';
+var googleSheet = 'https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic?alt=json';
 var dataTest = './assets/test.json';
 
-fetch(dataFile)
+fetch(dataTest)
   .then(  
     function(response) {  
       if (response.status !== 200) {  

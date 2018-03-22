@@ -1,5 +1,4 @@
-// API callback
-JSON({
+{
   "version": "1.0",
   "encoding": "UTF-8",
   "feed": {
@@ -7,7 +6,7 @@ JSON({
     "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
     "id": {
-      "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values"
+      "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic"
     },
     "updated": {
       "$t": "2018-03-21T14:59:34.952Z"
@@ -31,17 +30,17 @@ JSON({
       {
         "rel": "http://schemas.google.com/g/2005#feed",
         "type": "application/atom+xml",
-        "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values"
+        "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic"
       },
       {
         "rel": "http://schemas.google.com/g/2005#post",
         "type": "application/atom+xml",
-        "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values"
+        "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic"
       },
       {
         "rel": "self",
         "type": "application/atom+xml",
-        "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values?alt\u003djson-in-script"
+        "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic?alt\u003djson"
       }
     ],
     "author": [
@@ -63,7 +62,7 @@ JSON({
     "entry": [
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cokwr"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/cokwr"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -86,28 +85,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cokwr"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/cokwr"
           }
-        ],
-        "gsx$name": {
-          "$t": "Magento"
-        },
-        "gsx$ring": {
-          "$t": "adopt"
-        },
-        "gsx$quadrant": {
-          "$t": "Platforms"
-        },
-        "gsx$isnew": {
-          "$t": "TRUE"
-        },
-        "gsx$description": {
-          "$t": "This is the description. You can use basic html such as the \u003cstrong\u003estrong tag to emphasise keywords and phrases\u003c/strong\u003e and insert \u003ca href\u003d\"https://www.thoughtworks.com\"\u003eanchor links to documentation and referance material\u003c/a\u003e."
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cpzh4"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/cpzh4"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -130,28 +114,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cpzh4"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/cpzh4"
           }
-        ],
-        "gsx$name": {
-          "$t": "WordPress"
-        },
-        "gsx$ring": {
-          "$t": "adopt"
-        },
-        "gsx$quadrant": {
-          "$t": "Platforms"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cre1l"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/cre1l"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -174,28 +143,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cre1l"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/cre1l"
           }
-        ],
-        "gsx$name": {
-          "$t": "Ionic"
-        },
-        "gsx$ring": {
-          "$t": "trial"
-        },
-        "gsx$quadrant": {
-          "$t": "Platforms"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/chk2m"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/chk2m"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -218,28 +172,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/chk2m"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/chk2m"
           }
-        ],
-        "gsx$name": {
-          "$t": "Drupal"
-        },
-        "gsx$ring": {
-          "$t": "trial"
-        },
-        "gsx$quadrant": {
-          "$t": "Platforms"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ciyn3"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/ciyn3"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -262,28 +201,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ciyn3"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/ciyn3"
           }
-        ],
-        "gsx$name": {
-          "$t": "Craft.CMS"
-        },
-        "gsx$ring": {
-          "$t": "assess"
-        },
-        "gsx$quadrant": {
-          "$t": "Platforms"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ckd7g"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/ckd7g"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -306,28 +230,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ckd7g"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/ckd7g"
           }
-        ],
-        "gsx$name": {
-          "$t": "Craft Commerce"
-        },
-        "gsx$ring": {
-          "$t": "assess"
-        },
-        "gsx$quadrant": {
-          "$t": "Platforms"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/clrrx"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/clrrx"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -350,28 +259,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/clrrx"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/clrrx"
           }
-        ],
-        "gsx$name": {
-          "$t": "???"
-        },
-        "gsx$ring": {
-          "$t": "assess"
-        },
-        "gsx$quadrant": {
-          "$t": "Platforms"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cyevm"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/cyevm"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -394,28 +288,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cyevm"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/cyevm"
           }
-        ],
-        "gsx$name": {
-          "$t": "???"
-        },
-        "gsx$ring": {
-          "$t": "assess"
-        },
-        "gsx$quadrant": {
-          "$t": "Platforms"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cztg3"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/cztg3"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -438,28 +317,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cztg3"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/cztg3"
           }
-        ],
-        "gsx$name": {
-          "$t": "???"
-        },
-        "gsx$ring": {
-          "$t": "assess"
-        },
-        "gsx$quadrant": {
-          "$t": "Platforms"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d180g"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/d180g"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -482,28 +346,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d180g"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/d180g"
           }
-        ],
-        "gsx$name": {
-          "$t": "WooCommerce"
-        },
-        "gsx$ring": {
-          "$t": "hold"
-        },
-        "gsx$quadrant": {
-          "$t": "Platforms"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d2mkx"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/d2mkx"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -526,28 +375,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d2mkx"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/d2mkx"
           }
-        ],
-        "gsx$name": {
-          "$t": "???"
-        },
-        "gsx$ring": {
-          "$t": "hold"
-        },
-        "gsx$quadrant": {
-          "$t": "Platforms"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cssly"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/cssly"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -570,28 +404,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cssly"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/cssly"
           }
-        ],
-        "gsx$name": {
-          "$t": "Symfony"
-        },
-        "gsx$ring": {
-          "$t": "adopt"
-        },
-        "gsx$quadrant": {
-          "$t": "Talen \u0026 Frameworks"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cu76f"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/cu76f"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -614,28 +433,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cu76f"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/cu76f"
           }
-        ],
-        "gsx$name": {
-          "$t": "Sonata"
-        },
-        "gsx$ring": {
-          "$t": "adopt"
-        },
-        "gsx$quadrant": {
-          "$t": "Talen \u0026 Frameworks"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cvlqs"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/cvlqs"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -658,28 +462,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cvlqs"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/cvlqs"
           }
-        ],
-        "gsx$name": {
-          "$t": "PHP"
-        },
-        "gsx$ring": {
-          "$t": "adopt"
-        },
-        "gsx$quadrant": {
-          "$t": "Talen \u0026 Frameworks"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cx0b9"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/cx0b9"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -702,28 +491,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/cx0b9"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/cx0b9"
           }
-        ],
-        "gsx$name": {
-          "$t": "JavaScript"
-        },
-        "gsx$ring": {
-          "$t": "adopt"
-        },
-        "gsx$quadrant": {
-          "$t": "Talen \u0026 Frameworks"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d9ney"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/d9ney"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -746,28 +520,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d9ney"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/d9ney"
           }
-        ],
-        "gsx$name": {
-          "$t": "REACT"
-        },
-        "gsx$ring": {
-          "$t": "trial"
-        },
-        "gsx$quadrant": {
-          "$t": "Talen \u0026 Frameworks"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/db1zf"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/db1zf"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -790,28 +549,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/db1zf"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/db1zf"
           }
-        ],
-        "gsx$name": {
-          "$t": "???"
-        },
-        "gsx$ring": {
-          "$t": "assess"
-        },
-        "gsx$quadrant": {
-          "$t": "Talen \u0026 Frameworks"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dcgjs"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dcgjs"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -834,28 +578,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dcgjs"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dcgjs"
           }
-        ],
-        "gsx$name": {
-          "$t": "JAVA"
-        },
-        "gsx$ring": {
-          "$t": "assess"
-        },
-        "gsx$quadrant": {
-          "$t": "Talen \u0026 Frameworks"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ddv49"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/ddv49"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -878,28 +607,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ddv49"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/ddv49"
           }
-        ],
-        "gsx$name": {
-          "$t": "???"
-        },
-        "gsx$ring": {
-          "$t": "assess"
-        },
-        "gsx$quadrant": {
-          "$t": "Talen \u0026 Frameworks"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d415a"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/d415a"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -922,28 +636,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d415a"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/d415a"
           }
-        ],
-        "gsx$name": {
-          "$t": "VUE"
-        },
-        "gsx$ring": {
-          "$t": "assess"
-        },
-        "gsx$quadrant": {
-          "$t": "Talen \u0026 Frameworks"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d5fpr"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/d5fpr"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -966,28 +665,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d5fpr"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/d5fpr"
           }
-        ],
-        "gsx$name": {
-          "$t": "Blockchain"
-        },
-        "gsx$ring": {
-          "$t": "assess"
-        },
-        "gsx$quadrant": {
-          "$t": "Talen \u0026 Frameworks"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d6ua4"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/d6ua4"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1010,28 +694,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d6ua4"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/d6ua4"
           }
-        ],
-        "gsx$name": {
-          "$t": "ZEND"
-        },
-        "gsx$ring": {
-          "$t": "hold"
-        },
-        "gsx$quadrant": {
-          "$t": "Talen \u0026 Frameworks"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d88ul"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/d88ul"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1054,28 +723,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/d88ul"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/d88ul"
           }
-        ],
-        "gsx$name": {
-          "$t": "???"
-        },
-        "gsx$ring": {
-          "$t": "hold"
-        },
-        "gsx$quadrant": {
-          "$t": "Talen \u0026 Frameworks"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dkvya"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dkvya"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1098,28 +752,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dkvya"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dkvya"
           }
-        ],
-        "gsx$name": {
-          "$t": "Angular"
-        },
-        "gsx$ring": {
-          "$t": "hold"
-        },
-        "gsx$quadrant": {
-          "$t": "Talen \u0026 Frameworks"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dmair"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dmair"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1142,28 +781,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dmair"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dmair"
           }
-        ],
-        "gsx$name": {
-          "$t": "Ruby"
-        },
-        "gsx$ring": {
-          "$t": "hold"
-        },
-        "gsx$quadrant": {
-          "$t": "Talen \u0026 Frameworks"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dnp34"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dnp34"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1186,28 +810,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dnp34"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dnp34"
           }
-        ],
-        "gsx$name": {
-          "$t": "SASS"
-        },
-        "gsx$ring": {
-          "$t": "adopt"
-        },
-        "gsx$quadrant": {
-          "$t": "Techniek"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dp3nl"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dp3nl"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1230,28 +839,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dp3nl"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dp3nl"
           }
-        ],
-        "gsx$name": {
-          "$t": "Webpack / ???"
-        },
-        "gsx$ring": {
-          "$t": "adopt"
-        },
-        "gsx$quadrant": {
-          "$t": "Techniek"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/df9om"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/df9om"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1274,28 +868,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/df9om"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/df9om"
           }
-        ],
-        "gsx$name": {
-          "$t": "Parcel JS"
-        },
-        "gsx$ring": {
-          "$t": "assess"
-        },
-        "gsx$quadrant": {
-          "$t": "Techniek"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dgo93"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dgo93"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1318,28 +897,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dgo93"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dgo93"
           }
-        ],
-        "gsx$name": {
-          "$t": "???"
-        },
-        "gsx$ring": {
-          "$t": "assess"
-        },
-        "gsx$quadrant": {
-          "$t": "Techniek"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/di2tg"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/di2tg"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1362,28 +926,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/di2tg"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/di2tg"
           }
-        ],
-        "gsx$name": {
-          "$t": "ESB"
-        },
-        "gsx$ring": {
-          "$t": "assess"
-        },
-        "gsx$quadrant": {
-          "$t": "Techniek"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/djhdx"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/djhdx"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1406,28 +955,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/djhdx"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/djhdx"
           }
-        ],
-        "gsx$name": {
-          "$t": "Guelph"
-        },
-        "gsx$ring": {
-          "$t": "hold"
-        },
-        "gsx$quadrant": {
-          "$t": "Techniek"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dw4je"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dw4je"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1450,28 +984,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dw4je"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dw4je"
           }
-        ],
-        "gsx$name": {
-          "$t": "LESS"
-        },
-        "gsx$ring": {
-          "$t": "hold"
-        },
-        "gsx$quadrant": {
-          "$t": "Techniek"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dxj3v"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dxj3v"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1494,28 +1013,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dxj3v"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dxj3v"
           }
-        ],
-        "gsx$name": {
-          "$t": "GIT"
-        },
-        "gsx$ring": {
-          "$t": "adopt"
-        },
-        "gsx$quadrant": {
-          "$t": "Tools"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dyxo8"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dyxo8"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1538,28 +1042,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dyxo8"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dyxo8"
           }
-        ],
-        "gsx$name": {
-          "$t": "???"
-        },
-        "gsx$ring": {
-          "$t": "adopt"
-        },
-        "gsx$quadrant": {
-          "$t": "Tools"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e0c8p"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/e0c8p"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1582,28 +1071,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e0c8p"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/e0c8p"
           }
-        ],
-        "gsx$name": {
-          "$t": "PhpStorm"
-        },
-        "gsx$ring": {
-          "$t": "adopt"
-        },
-        "gsx$quadrant": {
-          "$t": "Tools"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dqi9q"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dqi9q"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1626,28 +1100,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dqi9q"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dqi9q"
           }
-        ],
-        "gsx$name": {
-          "$t": "Jira"
-        },
-        "gsx$ring": {
-          "$t": "adopt"
-        },
-        "gsx$quadrant": {
-          "$t": "Tools"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/drwu7"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/drwu7"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1670,28 +1129,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/drwu7"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/drwu7"
           }
-        ],
-        "gsx$name": {
-          "$t": "???"
-        },
-        "gsx$ring": {
-          "$t": "adopt"
-        },
-        "gsx$quadrant": {
-          "$t": "Tools"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dtbek"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dtbek"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1714,28 +1158,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dtbek"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dtbek"
           }
-        ],
-        "gsx$name": {
-          "$t": "Slack"
-        },
-        "gsx$ring": {
-          "$t": "adopt"
-        },
-        "gsx$quadrant": {
-          "$t": "Tools"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dupz1"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dupz1"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1758,28 +1187,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/dupz1"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/dupz1"
           }
-        ],
-        "gsx$name": {
-          "$t": "New Relic"
-        },
-        "gsx$ring": {
-          "$t": "adopt"
-        },
-        "gsx$quadrant": {
-          "$t": "Tools"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e7d2q"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/e7d2q"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1802,28 +1216,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e7d2q"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/e7d2q"
           }
-        ],
-        "gsx$name": {
-          "$t": "???"
-        },
-        "gsx$ring": {
-          "$t": "adopt"
-        },
-        "gsx$quadrant": {
-          "$t": "Tools"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e8rn7"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/e8rn7"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1846,28 +1245,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e8rn7"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/e8rn7"
           }
-        ],
-        "gsx$name": {
-          "$t": "???"
-        },
-        "gsx$ring": {
-          "$t": "adopt"
-        },
-        "gsx$quadrant": {
-          "$t": "Tools"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ea67k"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/ea67k"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1890,28 +1274,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ea67k"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/ea67k"
           }
-        ],
-        "gsx$name": {
-          "$t": "Valet+"
-        },
-        "gsx$ring": {
-          "$t": "adopt"
-        },
-        "gsx$quadrant": {
-          "$t": "Tools"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ebks1"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/ebks1"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1934,28 +1303,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/ebks1"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/ebks1"
           }
-        ],
-        "gsx$name": {
-          "$t": "Discord"
-        },
-        "gsx$ring": {
-          "$t": "trial"
-        },
-        "gsx$quadrant": {
-          "$t": "Tools"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e1qt2"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/e1qt2"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -1978,28 +1332,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e1qt2"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/e1qt2"
           }
-        ],
-        "gsx$name": {
-          "$t": "???"
-        },
-        "gsx$ring": {
-          "$t": "trial"
-        },
-        "gsx$quadrant": {
-          "$t": "Tools"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e35dj"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/e35dj"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -2022,28 +1361,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e35dj"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/e35dj"
           }
-        ],
-        "gsx$name": {
-          "$t": "???"
-        },
-        "gsx$ring": {
-          "$t": "assess"
-        },
-        "gsx$quadrant": {
-          "$t": "Tools"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e4jxw"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/e4jxw"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -2066,28 +1390,13 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e4jxw"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/e4jxw"
           }
-        ],
-        "gsx$name": {
-          "$t": "GitLab"
-        },
-        "gsx$ring": {
-          "$t": "assess"
-        },
-        "gsx$quadrant": {
-          "$t": "Tools"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       },
       {
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e5yid"
+          "$t": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/e5yid"
         },
         "updated": {
           "$t": "2018-03-21T14:59:34.952Z"
@@ -2110,25 +1419,10 @@ JSON({
           {
             "rel": "self",
             "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/values/e5yid"
+            "href": "https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic/e5yid"
           }
-        ],
-        "gsx$name": {
-          "$t": "???"
-        },
-        "gsx$ring": {
-          "$t": "hold"
-        },
-        "gsx$quadrant": {
-          "$t": "Tools"
-        },
-        "gsx$isnew": {
-          "$t": "FALSE"
-        },
-        "gsx$description": {
-          "$t": "Uitleg"
-        }
+        ]
       }
     ]
   }
-});
+}
