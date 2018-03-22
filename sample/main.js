@@ -11,11 +11,9 @@ require('../src/stylesheets/base.scss');
 const createRadar = require('../index'); 
 //replace with require('techradar') when using the npm package 'techradar' in your project
 
-var dataFile = './assets/data.json';
-var googleSheet = 'https://spreadsheets.google.com/feeds/list/12bLoJGvq58xJtDdx_2dt88-MG6Di3VDvBcmKfYZOAeI/od6/public/basic?alt=json';
-var dataTest = './assets/test.json';
+var googleSheet = 'https://spreadsheets.google.com/feeds/list/1WUOYCyYV1ulzU8Fe_2cxXB9BVJT6qX40k8AQ12vAoCU/od6/public/basic?alt=json';
 
-fetch(dataTest)
+fetch(googleSheet)
   .then(  
     function(response) {  
       if (response.status !== 200) {  
@@ -27,8 +25,56 @@ fetch(dataTest)
       // Examine the text in the response  
       response.json().then(function(data) {  
         console.log(data);
-        const radarData = data;
-        createRadar(radarData);
+        //const radarData = data;
+
+        let mappedArray = [];
+
+        for(var i = 0; i < data.feed.entry.length; i++) {
+
+            var title = data.feed.entry[i].title.$t;
+
+
+            var content = data.feed.entry[i].content.$t;
+            var contentSplitted  = content.split(', ');
+
+            let ring  = '';
+            let quadrant = '';
+            let isnew = '';
+            let description = '';
+
+            for(var j = 0; j < contentSplitted.length; j++) {
+                var contentSplittedSub  = contentSplitted[j].split(': ');
+
+                if(contentSplittedSub[0] === 'ring') {
+                    ring = contentSplittedSub[1]
+                }
+
+                if(contentSplittedSub[0] === 'quadrant') {
+                    quadrant = contentSplittedSub[1]
+                }
+
+                if(contentSplittedSub[0] === 'isnew') {
+                    isnew = contentSplittedSub[1]
+                }
+
+                if(contentSplittedSub[0] === 'description') {
+                    description = contentSplittedSub[1]
+                }
+
+            }
+
+            mappedArray.push({
+                "name": title,
+                "ring": ring,
+                "quadrant": quadrant,
+                "isNew": (isnew === 'TRUE'),
+                "description": description
+            });
+
+        }
+
+
+        createRadar(mappedArray);
       });  
     }  
   )  
