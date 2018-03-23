@@ -12,18 +12,8 @@ html{
   height: 100%;
 }
 
-@font-face {
-  font-family: 'arboria-book';
-  src: url('/images/font-webfont.woff2') format('woff2'),
-  url('/images/font-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
 body {
-  font-family: arboria-book;
-  font-size: 18px;
-  //font: 18px 'Montserrat';
+  font: 18px 'Montserrat';
   -webkit-font-smoothing: antialiased;
   margin: 0;
   background: grey; /* For browsers that do not support gradients */    
