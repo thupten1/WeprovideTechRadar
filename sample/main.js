@@ -27,7 +27,7 @@ fetch(googleSheet)
         console.log(data);
         //const radarData = data;
 
-        let mappedArray = [];
+        var mappedArray = [];
 
         for(var i = 0; i < data.feed.entry.length; i++) {
 
@@ -37,10 +37,10 @@ fetch(googleSheet)
             var content = data.feed.entry[i].content.$t;
             var contentSplitted  = content.split(', ');
 
-            let ring  = '';
-            let quadrant = '';
-            let isnew = '';
-            let description = '';
+            var ring  = '';
+            var quadrant = '';
+            var isnew = '';
+            var description = '';
 
             for(var j = 0; j < contentSplitted.length; j++) {
                 var contentSplittedSub  = contentSplitted[j].split(': ');
