@@ -7,7 +7,7 @@ const RingCalculator = require('./ringCalculator');
 
 const Radar = function (size, radar) {
   //console.log(size);
-   var svg, radarElement, blipWidth = 17;
+   var svg, radarElement, blipWidth = 16;
 
   var tip = d3tip().attr('class', 'd3-tip').html(function (text) {
     return text;
