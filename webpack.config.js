@@ -21,10 +21,7 @@ let plugins = [
         title: "We Provide Techradar",
         version: version
     }),
-    new copyWebpackPlugin([{
-        from: './src/assets',
-        to: 'assets'
-    }]),
+    
      new webpack.optimize.UglifyJsPlugin({
                 comments: false,
                 mangle: false,
