@@ -18,7 +18,7 @@ let plugins = [
         inject: true,     
         filename: 'index.html',        
         template: './sample/template.html',        
-        title: "Sample Radar",
+        title: "We Provide Techradar",
         version: version
     }),
     new copyWebpackPlugin([{
@@ -39,7 +39,7 @@ module.exports = {
 
     output: {
         path: buildPath,
-        publicPath: '/',
+        publicPath: '',
         filename: '[name].[hash].js'
     },
 
