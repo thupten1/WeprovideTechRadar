@@ -11,7 +11,9 @@ require('../src/stylesheets/base.scss');
 const createRadar = require('../index'); 
 //replace with require('techradar') when using the npm package 'techradar' in your project
 
-var googleSheet = 'https://spreadsheets.google.com/feeds/list/1WUOYCyYV1ulzU8Fe_2cxXB9BVJT6qX40k8AQ12vAoCU/od6/public/basic?alt=json';
+var googleSheetKey = '1WUOYCyYV1ulzU8Fe_2cxXB9BVJT6qX40k8AQ12vAoCU';
+
+var googleSheet = 'https://spreadsheets.google.com/feeds/list/' + googleSheetKey + '/od6/public/basic?alt=json';
 
 fetch(googleSheet)
   .then(  
