@@ -21,10 +21,10 @@ let plugins = [
         title: "We Provide Techradar",
         version: version
     }),
-    new copyWebpackPlugin([{
-        from: './fonts',
-        to: 'fonts'
-    }]),
+    // new copyWebpackPlugin([{
+    //     from: './fonts',
+    //     to: 'fonts'
+    // }]),
      new webpack.optimize.UglifyJsPlugin({
                 comments: false,
                 mangle: false,
