@@ -21,10 +21,13 @@ let plugins = [
         title: "We Provide Techradar",
         version: version
     }),
+
+    // Use this to input files from assets folder
     // new copyWebpackPlugin([{
-    //     from: './fonts',
-    //     to: 'fonts'
+    //     from: './assets',
+    //     to: 'assets'
     // }]),
+
      new webpack.optimize.UglifyJsPlugin({
                 comments: false,
                 mangle: false,
